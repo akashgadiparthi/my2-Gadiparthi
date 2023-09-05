@@ -19,3 +19,8 @@ Here are some of my favorite activities which I enjoy in Hyderabad
 - **Chicken Tikka Masala** : Marinated and grilled chicken pieces served in a rich tomato-based gravy with spices.
 
 - **Pizza Margherita** : A classic Italian pizza topped with tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil.
+
+
+
+
+[Link to MyStatus](MyStats.md)
