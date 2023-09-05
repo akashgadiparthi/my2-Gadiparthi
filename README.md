@@ -12,3 +12,10 @@ Here are some of my favorite activities which I enjoy in Hyderabad
 2.**Golconda Fort** : Explore this historic fort, known for its impressive acoustics and panoramic views of the city. Don't forget to watch the light and sound show in the evening.
 
 3.**Ramoji Film City** : Spend a day at the world's largest integrated film studio complex. You can take a studio tour, watch live film shootings, and enjoy various entertainment shows.
+
+---
+- **Biryani** : Hyderabad is famous for its biryani. Try different variations of this delicious dish at popular restaurants like Paradise, Bawarchi, or Shah Ghouse.
+
+- **Chicken Tikka Masala** : Marinated and grilled chicken pieces served in a rich tomato-based gravy with spices.
+
+- **Pizza Margherita** : A classic Italian pizza topped with tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil.
