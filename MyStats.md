@@ -19,3 +19,13 @@ Fitness is not about being better than someone else; it's about being better tha
 |   Volleyball  | Volleyball provides health and fitness benefits by improving cardiovascular endurance, muscular strength, agility, and promoting teamwork and social interaction.  | 6-8 hours |
  
  ---
+ ## Pithy Quotes from Scientists
+
+ > Imagination is more important than knowledge.
+ > - *Albert Einstein*
+
+ > The present is theirs; the future, for which I really worked, is mine.
+ > - *Nikola Tesla*
+
+ > I have not failed. I've just found 10,000 ways that won't work.
+ > - *Thomas Edison*
