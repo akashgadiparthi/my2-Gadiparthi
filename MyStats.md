@@ -29,3 +29,14 @@ Fitness is not about being better than someone else; it's about being better tha
 
  > I have not failed. I've just found 10,000 ways that won't work.
  > - *Thomas Edison*
+
+---
+stack overflow: <https://stackoverflow.com/questions/86428/what-s-the-best-way-to-reload-refresh-an-iframe>
+
+``` jQuery
+
+window.frames['frameNameOrIndex'].location.reload();
+
+```
+
+snippet source: <https://css-tricks.com/snippets/jquery/force-iframe-to-reload/>
